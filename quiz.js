@@ -7,7 +7,7 @@ let opcaoSelecionada = false;
 let firebaseApp = null;
 let firebaseAuth = null;
 let firebaseDb = null;
-let currentUser = '';
+let currentUser = '123';
 let usingFirestore = false;
 
 // UI
